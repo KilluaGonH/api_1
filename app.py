@@ -1,6 +1,5 @@
 import streamlit as st
 
-st.header('Lanzar una moneda')
 
 import pandas as pd
 import scipy.stats
